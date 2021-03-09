@@ -5,11 +5,11 @@ import JobsCard from "./cards/JobsCard";
 import ReposCard from "./cards/ReposCard";
 
 const APP = {
-  name: 'Hackertab.dev',
-  slogan: '— Stay updated with the new technology and trends',
-  repository: 'https://github.com/medyo/hackertab.dev',
-  ref: 'ref=hackertab',
-  contactEmail: 'hello@hackertab.dev',
+  name: 'Fintab',
+  slogan: '— Stay updated with the latest finance news and trends',
+  repository: 'https://github.com/tlennon140/fintab',
+  ref: 'ref=fintab',
+  contactEmail: '-',
   maxCardsPerRow: 4
 }
 

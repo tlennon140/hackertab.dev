@@ -6,9 +6,9 @@ export default function DataSourcePage ({ goToPage }) {
     return (
       <div className="Page">
         <h1 className="title">Data sources</h1>
-        <p>We collect many data sources to fuel HackerTab and bring content in daily basics</p>
-        <p>Hackertab automatically crawls, analyzes, structures and formats the data in a better way.
-          Hackertab supports the folling data sources:</p>
+        <p>We collect many data sources to fuel Fintab and bring content in daily basics</p>
+        <p>Fintab automatically crawls, analyzes, structures and formats the data in a better way.
+          Fintab supports the folling data sources:</p>
         <ul>
           <li>Hackernews</li>
           <li>Stackoverflow Jobs</li>
